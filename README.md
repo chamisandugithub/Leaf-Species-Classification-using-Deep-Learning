@@ -1,6 +1,3 @@
-#  Interactive Leaf Species Dashboard
-
-An AI-powered interactive dashboard for leaf species classification using Machine Learning and Deep Learning models.
 
 ##  Project Overview
 
